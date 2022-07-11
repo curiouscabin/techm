@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tech Mallu</title>
+    <link>https://techmallu.com/posts/</link>
+    <description>Recent content in Posts on Tech Mallu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Tech Mallu</copyright>
+    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://techmallu.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://techmallu.com/posts/hello/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://techmallu.com/posts/hello/</guid>
+      <description>Hello world!</description>
+      <content>&lt;p&gt;Hello world!&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
