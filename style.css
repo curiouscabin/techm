@@ -43,12 +43,12 @@ TABLE OF CONTENT
 
   /* COLOR PALETTE */
 
-  --ui-color-n-000: #fff;
+  --ui-color-n-000: ##0d76ff;
   --ui-color-n-025: #fafafa;
   --ui-color-n-050: #f5f5f5;
   --ui-color-n-300: #aeaeae;
   --ui-color-n-500: #353535;
-  --ui-color-n-900: #1a1a1a;
+  --ui-color-n-900: ##0d76ff;
 
   /* BACKGROUND COLOR */
   
@@ -75,7 +75,7 @@ TABLE OF CONTENT
 
   --ui-typography-h1: 1.9375rem;
   --ui-typography-h2: 1.5625rem;
-  --ui-typography-p : 1rem;
+  --ui-typography-p : 2rem;
   --ui-typography-s : .8125rem;
 
   /* LEADING */
@@ -126,7 +126,7 @@ html { box-sizing: border-box; }
 
 body {
   background-color: var(--ui-color-background-primary);
-  color: var(--ui-color-typography-body);
+  color: #0d76ff;
   font-family: var(--ui-typography-typeface);
   font-feature-settings: "liga", "kern";
   font-size: var(--ui-typography-p);
